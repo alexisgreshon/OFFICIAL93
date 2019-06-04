@@ -3,7 +3,7 @@
    <types>
       <type name="BitField" kind="BITFIELD" base="INT" bits="">
       </type>
-      <type name="EnumType1" kind="ENUM">
+      <type name="EnumType1" kind="ENUM1">
       <enumval value="V0"/>
       <enumval value="V1"/>
       </type>
