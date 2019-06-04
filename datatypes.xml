@@ -3,6 +3,10 @@
    <types>
       <type name="BitField" kind="BITFIELD" base="INT" bits="">
       </type>
+      <type name="EnumType1" kind="ENUM">
+      <enumval value="V0"/>
+      <enumval value="V1"/>
+      </type>
       <type name="MyGITStructure" kind="STRUCT" desc="">
       </type>
       <type name="MyStructure" kind="STRUCT" desc="">
