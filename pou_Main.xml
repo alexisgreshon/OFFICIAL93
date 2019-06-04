@@ -23,9 +23,11 @@
                <FBDlinepoint xcell="24" ycell="13" xincell="1" yincell="8"/>
             </FBDline>
             <FBDline negate="0" idfrom="3" idto="1" pinfrom="0" pinto="1" cutx="50" cuty="50">
-               <FBDlinepoint xcell="23" ycell="14" xincell="0" yincell="8"/>
-               <FBDlinepoint xcell="23" ycell="14" xincell="7" yincell="8"/>
-               <FBDlinepoint xcell="23" ycell="14" xincell="7" yincell="8"/>
+               <FBDlinepoint xcell="24" ycell="18" xincell="0" yincell="8"/>
+               <FBDlinepoint xcell="24" ycell="18" xincell="2" yincell="8"/>
+               <FBDlinepoint xcell="24" ycell="16" xincell="2" yincell="12"/>
+               <FBDlinepoint xcell="23" ycell="16" xincell="15" yincell="12"/>
+               <FBDlinepoint xcell="23" ycell="14" xincell="15" yincell="8"/>
                <FBDlinepoint xcell="24" ycell="14" xincell="1" yincell="8"/>
             </FBDline>
          </sourceFBD>
