@@ -5,7 +5,7 @@
          <var name="MyVar2" type="BOOL"/>
       </vargroup>
       <vargroup name="(Retain)" kind="RETAIN">
-         <var name="MyVar3" type="BOOL"/>
+         <var name="MyVar4" type="BOOL"/>
       </vargroup>
    </variables>
 </K5project>
