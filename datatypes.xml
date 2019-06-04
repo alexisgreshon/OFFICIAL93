@@ -5,7 +5,7 @@
       </type>
       <type name="MyGITStructure" kind="STRUCT" desc="">
       </type>
-      <type name="MyStructure" kind="STRUCT" desc="">
+      <type name="MyStructure" kind="STRUCT2" desc="">
       </type>
    </types>
 </K5project>
